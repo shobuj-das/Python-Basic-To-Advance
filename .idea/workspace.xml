@@ -43,6 +43,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Concatenate.executor": "Run",
+    "Python.Format.executor": "Run",
+    "Python.Modify.executor": "Run",
+    "Python.Slice.executor": "Run",
     "Python.String.executor": "Run",
     "Python.data-types.executor": "Run",
     "Python.intput-output.executor": "Run",
@@ -54,6 +58,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project Playground\Python-Basic-to-Advance\String" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

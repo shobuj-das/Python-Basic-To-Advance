@@ -43,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.String.executor": "Run",
     "Python.data-types.executor": "Run",
     "Python.intput-output.executor": "Run",
     "Python.testSelenium.executor": "Run",

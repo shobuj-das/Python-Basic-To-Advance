@@ -43,8 +43,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Casting.executor": "Run",
     "Python.Concatenate.executor": "Run",
+    "Python.DataTypes.executor": "Run",
     "Python.Format.executor": "Run",
+    "Python.GlobalVariables.executor": "Run",
     "Python.Modify.executor": "Run",
     "Python.Slice.executor": "Run",
     "Python.String.executor": "Run",

@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35512681-19d8-4e7f-a366-5a05b79cc70b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections(Arrays)/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collections(Arrays)/List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     "Python.Casting.executor": "Run",
     "Python.Concatenate.executor": "Run",
     "Python.DataTypes.executor": "Run",
+    "Python.For.executor": "Run",
     "Python.Format.executor": "Run",
     "Python.GlobalVariables.executor": "Run",
     "Python.List.executor": "Run",

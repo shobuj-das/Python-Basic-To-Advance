@@ -56,6 +56,7 @@
     "Python.Modify.executor": "Run",
     "Python.Slice.executor": "Run",
     "Python.String.executor": "Run",
+    "Python.While.executor": "Run",
     "Python.data-types.executor": "Run",
     "Python.intput-output.executor": "Run",
     "Python.testSelenium.executor": "Run",

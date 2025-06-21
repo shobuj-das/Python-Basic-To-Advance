@@ -1,9 +1,9 @@
 def get_grade(mark):
     if mark >= 80:
         return "A"
-    elif mark <=79 and mark >=70:
+    elif 79 >= mark >= 70:
         return "B"
-    elif mark >= 50 and mark <= 69:
+    elif 50 <= mark <= 69:
         return "C"
     else:
         return "F"
